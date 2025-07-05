@@ -48,25 +48,44 @@ This project is a complete machine learning pipeline that predicts the **Expecte
 
 ---
 
-## 🧪 Custom Prediction Support
 
-Want to test the model on a new candidate profile?
+---
 
-✅ This project supports **manual custom prediction** inside the notebook itself.
+## 🧪✨ Custom Prediction — Try It Yourself!
 
-Just scroll to the **"Custom Prediction"** section and fill in details like:
+> ✅ **Test your own candidate profile inside the notebook!**
 
-- Age: 25  
-- Gender: Female  
-- UG Specialization: Computer Science  
-- UG University: Tier 2  
-- Skills: Python, SQL, Excel  
-- Experience: 2 years  
-- Location: Bangalore  
-- etc.
+This project supports **manual custom predictions** — just scroll to the 🔮 `Try Custom Prediction` section in the notebook and enter a profile like:
 
-🎯 The notebook will return a personalized **Expected CTC (Salary)** in ₹ lakhs.
+'UG_Specialization': 'Computer Science'
+'PG_Specialization': 'None'
+'Skills': 'Python, SQL, Excel'
+'Experience': 2
+'Current_Location': 'Bangalore'
+'UG_University': 'Tier 2'
+'PG_University': 'None'
+'Graduation_Year': 2023
 
-This feature demonstrates the model’s flexibility and real-world usability.
+➡️ 💥 The model will instantly return a **personalized Expected CTC** like:
+🎯 Predicted CTC: ₹6.72 Lakhs
+
+This makes the model **interactive**, **practical**, and shows how it can be used in **real-world hiring scenarios** 🔍
+
+---
+
+## 🙋‍♀️ Created By
+
+**Asmita Mahajan**  
+🎓 BTech, Computer Engineering — Thapar University (2nd Year)  
+💻 Machine Learning Enthusiast | Beginner Data Scientist | Problem Solver
+
+📬 **Connect with me:**  
+🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin-username)  
+🔗 [GitHub](https://github.com/Asmita0817)
+
+---
+
+
+
 
 
