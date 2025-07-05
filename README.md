@@ -44,3 +44,29 @@ This project is a complete machine learning pipeline that predicts the **Expecte
 
 ```python
 💰 Predicted Expected CTC: ₹666,092
+
+
+---
+
+## 🧪 Custom Prediction Support
+
+Want to test the model on a new candidate profile?
+
+✅ This project supports **manual custom prediction** inside the notebook itself.
+
+Just scroll to the **"Custom Prediction"** section and fill in details like:
+
+- Age: 25  
+- Gender: Female  
+- UG Specialization: Computer Science  
+- UG University: Tier 2  
+- Skills: Python, SQL, Excel  
+- Experience: 2 years  
+- Location: Bangalore  
+- etc.
+
+🎯 The notebook will return a personalized **Expected CTC (Salary)** in ₹ lakhs.
+
+This feature demonstrates the model’s flexibility and real-world usability.
+
+
