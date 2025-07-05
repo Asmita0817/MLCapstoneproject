@@ -43,7 +43,7 @@ This project is a complete machine learning pipeline that predicts the **Expecte
 ## 📌 Sample Output
 
 ```python
-💰 Predicted Expected CTC: ₹666,092
+💰 Predicted Expected CTC: ₹639,557
 
 
 ---
