@@ -80,7 +80,7 @@ This makes the model **interactive**, **practical**, and shows how it can be use
 💻 Machine Learning Enthusiast | Beginner Data Scientist | Problem Solver
 
 📬 **Connect with me:**  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin-username)  
+🔗 [LinkedIn](https://www.linkedin.com/in/asmita-mahajan-590081356/)  
 🔗 [GitHub](https://github.com/Asmita0817)
 
 ---
